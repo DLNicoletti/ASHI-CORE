@@ -7,12 +7,13 @@
 ### 1. Fundamental Constants
 The framework operates on the detection of two specific dimensionless parameters derived from high-entropy flux analysis:
 
-* **$\mathcal{K}_c \approx 1.441$ (Criticality Invariant):** Represents the singular point of bifurcation where the system transitions from a stable attractor basin to a stochastic regime.
+* **$\mathcal{K}_c \approx 1.441$ (Kc ≈ 1.441 (Empirical Criticality Threshold):** Empirically observed threshold associated with regime transition in high-entropy dynamical systems.
+The value emerges consistently across tested datasets but requires further statistical validation.
 * **$P_c \approx 0.0512$ (Residence Constant):** The asymptotic probability density of a system maintaining homeostatic equilibrium under localized stress injections.
 
 ---
 
-### 2. Cross-Domain Validation (Isomorphism Proof)
+### 2. Cross-Domain Empirical Observation (Isomorphism Proof)
 The stability of these constants has been empirically verified across heterogeneous datasets, demonstrating a **Scale-Invariant Symmetry**:
 
 * **Neurodynamics:** Analysis of 300MB+ EEG datasets (see `test_eeg.csv`) during cognitive load transitions.
