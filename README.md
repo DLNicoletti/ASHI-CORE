@@ -2,12 +2,6 @@
 
 **Phase Transition Detection in High-Entropy Telemetry Streams**
 
-![ASHI-CORE: Structural entropy visualization and phase transition detection (K ≥ Kc)](Logos/258937E7-14D4-47AB-A729-8D9AABE34DD2.gif)
-
-Stochastic Dynamics
-(high-entropy network with continuously evolving connectivity. Local fluctuations propagate across the system, approaching critical conditions)
-
----
 
 ## Overview
 
